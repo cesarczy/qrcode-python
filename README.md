@@ -1,6 +1,6 @@
 # qrcode-python
 
-Além do python instalado, precisamos instalar as bibliotecas:
+Python installed on your machine, we also need to install the following libraries:
 
 PyQRCode e pypng.
 
